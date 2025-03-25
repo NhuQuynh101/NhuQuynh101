@@ -8,10 +8,7 @@
 - 🎓 I'm currently a student at **University of Information Technology**.  
 - 💻 Passionate about **Web Development & Game Development**.  
 - 🔥 Currently learning **ReactJS, Node.js, Lua (Roblox, Defold)**.  
-- 💡 Ask me about **Frontend, Backend, Game Dev**.  
-
-## 💬 My Quotes  
-> "While teaching, we learn. While learning, we teach."  
+- 💡 Ask me about **Frontend, Backend, Game Dev**.   
 
 ## 🤝 Connect with Me  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)  
