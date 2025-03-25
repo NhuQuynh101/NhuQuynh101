@@ -1,14 +1,9 @@
 <h1 align="center"> Hi there! I'm Nhu Quynh 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
-</p>
-
 ## 🔹 About Me  
 - 🎓 I'm currently a student at **University of Information Technology**.  
 - 💻 Passionate about **Web Development & Game Development**.  
 - 🔥 Currently learning **ReactJS, Node.js, Lua (Roblox, Defold)**.  
-- 💡 Ask me about **Frontend, Backend, Game Dev**.   
 
 ## 🤝 Connect with Me  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)  
@@ -23,4 +18,9 @@
 ## 🚀 Languages Used  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NhuQuynh101&layout=compact&theme=tokyonight)  
+
+## 🔥 Contribution Graph  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=NhuQuynh101&theme=tokyonight)  
+
 
