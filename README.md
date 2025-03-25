@@ -5,7 +5,7 @@
 </p>
 
 ## 🔹 About Me  
-- 🎓 I'm currently a student at **[Your University]**.  
+- 🎓 I'm currently a student at **University of Information Technology**.  
 - 💻 Passionate about **Web Development & Game Development**.  
 - 🔥 Currently learning **ReactJS, Node.js, Lua (Roblox, Defold)**.  
 - 💡 Ask me about **Frontend, Backend, Game Dev**.  
